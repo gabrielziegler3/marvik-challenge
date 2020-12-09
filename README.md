@@ -1,13 +1,5 @@
-# Simple Flask API
+# Marvik
 
-## Usage
+* Sample Flask API in `api/`
 
-Build docker image from project dir
-```
-docker build . -t marvik
-```
-
-Run container with Flask app 
-```
-docker run -p 3000:3000 marvik
-```
+* Stock predictor LSTM in the jupyter notebook above
